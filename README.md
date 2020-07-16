@@ -1,7 +1,7 @@
-### Hi there 👋
 [![TimDohmen's github stats](https://github-readme-stats.vercel.app/api?username=timdohmen&show_icons=true&bg_color=rgba(255,255,255,1))](https://github.com/timdohmen/github-readme-stats)
 <!--
 **TimDohmen/TimDohmen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### Hi there 👋
 
 Here are some ideas to get you started:
 
