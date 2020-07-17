@@ -1,8 +1,7 @@
 <p align="center">
-    <a href=" https://github.com/TimDohmen/">
-  
+    <a href="https://github.com/TimDohmen/">
    <img src="https://github-readme-stats.vercel.app/api?username=timdohmen&show_icons=true&bg_color=rgba(255,255,255,1)" alt="Tim's Stats" >
-       </a>
+      </a>
  </p>
   <p align="center">
   <a href="https://timdohmen.github.io/">
